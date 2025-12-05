@@ -48,7 +48,7 @@ The system demonstrates how Adaptive Optics can significantly improve OAM mode s
 ┌─────────────────┐
 │   Transmitter   │
 │  - OAM Modes    │
-│  - QPSK Mod     │
+│  - QPSK Mod     │   
 │  - LDPC Encoder │
 └────────┬────────┘
          │
@@ -283,9 +283,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{fso_beam_recovery_ao,
   title = {FSO Beam Recovery with Adaptive Optics},
-  author = {Your Name},
+  author = {Srivatsa Davuluri},
   year = {2024},
-  url = {https://github.com/yourusername/fso-beam-recovery-ao}
+  url = {https://github.com/srivatsadavuluriiii/fso-beam-recovery-ao}
 }
 ```
 
